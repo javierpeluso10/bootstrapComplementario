@@ -85,7 +85,7 @@ a:hover{
 
 .seccion-primera{
     height: 550px;
-    background: url(/img/impresion3d.jpeg) no-repeat center center/cover;
+    background: url(../img/impresion3d.jpeg) no-repeat center center/cover;
     padding-bottom: 50px;
     display: flex;
     flex-direction: column;
